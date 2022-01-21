@@ -9,13 +9,10 @@ Dsmovie é uma aplicação full stack web construída durante a uma edição da 
 
 A aplicação é construída para avaliações de filmes, onde os dados são renderizados e depois são listados no app web usando a lib themoviedb, onde também é possível cadastra um email pelo o usuário para fazer a avaliação.
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/Jose-Humberto-07/assests/blob/main/1.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2](https://github.com/Jose-Humberto-07/assests/blob/main/2.png)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
