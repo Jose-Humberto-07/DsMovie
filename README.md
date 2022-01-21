@@ -26,9 +26,7 @@ A aplicação é construída para avaliações de filmes, onde os dados são ren
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
-- React Native
-- Apex Charts
-- Expo
+- Axios
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
@@ -41,13 +39,13 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/Jose-Humberto-07/DsMovie
 
 # entrar na pasta do projeto back end
 cd backend
 
 # executar o projeto
-./mvnw spring-boot:run
+./mvn spring-boot:run
 ```
 
 ## Front end web
@@ -55,7 +53,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/Jose-Humberto-07/DsMovie
 
 # entrar na pasta do projeto front end web
 cd front-web
@@ -69,7 +67,7 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
+José Humberto
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/jose-humberto-nascimento/
 
