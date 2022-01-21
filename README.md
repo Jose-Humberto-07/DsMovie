@@ -1,11 +1,11 @@
 # Dsmovie 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Jose-Humberto-07/DsMovie/blob/main/LICENSE) 
 
 # Sobre o projeto
 
 https://dsmovie-avaliation.netlify.app
 
-Dsmovie é uma aplicação full stack web construída durante a uma edição da **Semana DevSuperior** (#sds), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Dsmovie é uma aplicação full stack web construída durante uma edição da **Semana DevSuperior** (#sds), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação é construída para avaliações de filmes, onde os dados são renderizados e depois são listados no app web usando a lib themoviedb, onde também é possível cadastra um email pelo o usuário para fazer a avaliação.
 
