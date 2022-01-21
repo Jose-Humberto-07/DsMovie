@@ -15,7 +15,7 @@ A aplicação é construída para avaliações de filmes, onde os dados são ren
 ![Web 2](https://github.com/Jose-Humberto-07/assests/blob/main/2.png)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/Jose-Humberto-07/assests/blob/main/dominio.png)
 
 # Tecnologias utilizadas
 ## Back end
